@@ -9,6 +9,7 @@
     "@types/react": "^16.9.46",
     "bignumber.js": "^9.0.1",
     "debounce": "^1.2.0",
+    "ethereumjs-abi": "^0.6.8",
     "ethers": "^4.0.47",
     "numeral": "^2.0.6",
     "react": "^16.13.1",
