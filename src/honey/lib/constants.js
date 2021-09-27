@@ -34,7 +34,8 @@ export const addressMap = {
 
 export const contractAddresses = {
   honey: {
-    42161: '0xdE31e75182276738B0c025daa8F80020A4F2fbFE',
+    42161: '0x1c50751a54df214acda7bec2ef99c317898a12a2',
+    // 42161: '0xdE31e75182276738B0c025daa8F80020A4F2fbFE',
   },
   masterChef: {
     42161: '0xf85CD66461088284480a455D2B2933E69B789BAF',
