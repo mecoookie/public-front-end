@@ -94,7 +94,7 @@ const Balances: React.FC = () => {
               <HoneyIcon />
               <Spacer />
               <div style={{ flex: 1 }}>
-                <Label text="Your HONEY Balance" />
+                <Label text="Your MARBI Balance" />
                 <Value
                   value={!!account ? getBalanceNumber(honeyBalance) : 'Locked'}
                 />
@@ -105,7 +105,7 @@ const Balances: React.FC = () => {
         <Footnote>
           Pending harvest
           <FootnoteValue>
-            <PendingRewards /> HONEY
+            <PendingRewards /> MARBI
           </FootnoteValue>
         </Footnote>
       </Card>
@@ -113,14 +113,14 @@ const Balances: React.FC = () => {
 
       <Card>
         <CardContent>
-          <Label text="Total HONEY Supply" />
+          <Label text="Total MARBI Supply" />
           <Value
             value={totalSupply ? getBalanceNumber(totalSupply) : 'Locked'}
           />
         </CardContent>
         <Footnote>
           New rewards per block
-          <FootnoteValue>100 HONEY</FootnoteValue>
+          <FootnoteValue>100 MARBI</FootnoteValue>
         </Footnote>
       </Card>
     </StyledWrapper>
