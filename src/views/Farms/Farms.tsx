@@ -27,7 +27,7 @@ const Farms: React.FC = () => {
           <>
             <Route exact path={path}>
               <PageHeader
-                icon={<img src={mgldlogo} />}
+                icon={<img src={mgldlogo} height="120px" />}
                 subtitle="Earn MGLD tokens by staking Sushiswap LP Tokens."
                 title="Select Your Favorite Mines"
               />
