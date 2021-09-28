@@ -2,7 +2,8 @@ export const white = '#FFF'
 export const black = '#000'
 
 export const green = {
-  500: '##00d1810',
+  500: '#f8e5b5',
+  // 500: '##00d1810',
 }
 
 export const red = {
@@ -23,5 +24,5 @@ export const grey = {
 
 export const  marbi = {
   100: '#f8e5b5',
-  200: 'e8e6e6',
+  200: '#e8e6e6',
 }
