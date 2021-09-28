@@ -2,7 +2,7 @@ import React from 'react'
 import { Route, Switch, useRouteMatch } from 'react-router-dom'
 import { useWallet } from 'use-wallet'
 
-import honeycomb from '../../assets/img/honeypot.png'
+import midasplantation from '../../assets/img/Midas_Plantation.png'
 
 import Button from '../../components/Button'
 import Page from '../../components/Page'
@@ -27,9 +27,9 @@ const Farms: React.FC = () => {
           <>
             <Route exact path={path}>
               <PageHeader
-                icon={<img src={honeycomb} height="120" />}
-                subtitle="Earn HONEY tokens by staking Sushiswap LP Tokens."
-                title="Select Your Favorite Hives"
+                icon={<img src={midasplantation} height="120" />}
+                subtitle="Earn MGLD tokens by staking Sushiswap LP Tokens."
+                title="Select Your Favorite Mines"
               />
               <FarmCards />
 			  <FarmCardsClosed />
