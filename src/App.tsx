@@ -90,9 +90,9 @@ const Providers: React.FC = ({ children }) => {
 	  
 	
   </ThemeProvider>
-  <video autoPlay loop  id="background-video" muted height="100%" width="100%">
+  {/* <video autoPlay loop  id="background-video" muted height="100%" width="100%">
 	<source src={require('./assets/mp4/Honeydrip2.mp4')}  />
-</video>
+</video> */}
 </>
 
   )
