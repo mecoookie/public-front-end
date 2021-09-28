@@ -20,3 +20,8 @@ export const grey = {
   600: '#cf6611',
   800: '#8a3e00',
 }
+
+export const  marbi = {
+  100: '#f8e5b5',
+  200: 'e8e6e6',
+}
