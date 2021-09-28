@@ -22,6 +22,6 @@ export const grey = {
 }
 
 export const marbicolor = {
-   100: '#f8e5b5',
-   200: '#e8e6e6',
+   200: '#f8e5b5',
+   100: '#e8e6e6',
 }
