@@ -2,7 +2,7 @@ import React from 'react'
 import { Route, Switch, useRouteMatch } from 'react-router-dom'
 import { useWallet } from 'use-wallet'
 
-import midasplantation from '../../assets/img/Midas_Plantation.png'
+import midasplantation from '../../assets/img/MGLD_Logo.png'
 
 import Button from '../../components/Button'
 import Page from '../../components/Page'
