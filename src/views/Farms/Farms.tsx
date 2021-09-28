@@ -2,7 +2,7 @@ import React from 'react'
 import { Route, Switch, useRouteMatch } from 'react-router-dom'
 import { useWallet } from 'use-wallet'
 
-import midasplantation from '../../assets/img/MGLD_Logo.png'
+import mgldlogo from '../../assets/img/MGLD_Logo.png'
 
 import Button from '../../components/Button'
 import Page from '../../components/Page'
@@ -27,7 +27,7 @@ const Farms: React.FC = () => {
           <>
             <Route exact path={path}>
               <PageHeader
-                icon={<img src={midasplantation} />}
+                icon={<img src={mgldlogo} />}
                 subtitle="Earn MGLD tokens by staking Sushiswap LP Tokens."
                 title="Select Your Favorite Mines"
               />
