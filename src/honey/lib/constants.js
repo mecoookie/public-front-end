@@ -35,13 +35,17 @@ export const addressMap = {
 export const contractAddresses = {
   honey: {
     42161: '0x1c50751a54df214acda7bec2ef99c317898a12a2',
+    4: '0xdd6A61B60648bf60Da975F8FA37A4293D1372989',
     // 42161: '0xdE31e75182276738B0c025daa8F80020A4F2fbFE',
   },
   masterChef: {
+    //this is actually Queen Bee
     42161: '0xf85CD66461088284480a455D2B2933E69B789BAF',
+    4: '0xf85CD66461088284480a455D2B2933E69B789BAF',
   },
   weth: {
     42161: '0x82af49447d8a07e3bd95bd0d56f35241523fbab1',
+    4: '0x82af49447d8a07e3bd95bd0d56f35241523fbab1',
   },
 }
 
