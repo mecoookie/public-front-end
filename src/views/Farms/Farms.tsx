@@ -45,6 +45,7 @@ const Farms: React.FC = () => {
               display: 'flex',
               flex: 1,
               justifyContent: 'center',
+              backgroundColor:"black",
             }}
           >
             <Button
