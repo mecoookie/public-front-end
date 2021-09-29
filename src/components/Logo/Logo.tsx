@@ -10,7 +10,7 @@ const Logo: React.FC = () => {
     <StyledLogo to="/">
       🦁
       <StyledText>
-        Midas Reflect <MasterChefText>Mines of Midas</MasterChefText>
+        MIDASREFLECT <MasterChefText>Plantation</MasterChefText>
       </StyledText>
     </StyledLogo>
   )
