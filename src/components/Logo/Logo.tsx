@@ -15,6 +15,7 @@ const Logo: React.FC = () => {
     </StyledLogo>
   )
 }
+//updated for midas
 
 const StyledLogo = styled(Link)`
   align-items: center;
