@@ -8,9 +8,9 @@ import CardIcon from '../../components/CardIcon'
 const Logo: React.FC = () => {
   return (
     <StyledLogo to="/">
-      🍯
+      🦁
       <StyledText>
-        Honey Pot <MasterChefText>BeeKeepers</MasterChefText>
+        Midas Reflect <MasterChefText>Mines of Midas</MasterChefText>
       </StyledText>
     </StyledLogo>
   )
