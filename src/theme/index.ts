@@ -1,7 +1,7 @@
 import { black, green, grey, red, white, marbicolor } from './colors'
 
 const theme = {
-  background: marbicolor[200],
+  background: black,
   borderRadius: 12,
   breakpoints: {
     mobile: 400,
