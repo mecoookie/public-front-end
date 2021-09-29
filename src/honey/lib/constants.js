@@ -124,18 +124,21 @@ export const supportedPools = [
     pid: 4,
 	lpAddresses: {
 		42161: '0x41f6c51f0Ca52279380bE89B4F7c1dF082d30FeD',
+    4: '0xE276910572AC5f4b6a3b0224229b1d50ef9f53c2',
 	  },
 	  tokenAddresses2: {
 		42161: '0x1a7BD9EDC36Fb2b3c0852bcD7438c2A957Fd7Ad5',
+    4: '0xac6C0eB4B821D1e993710255fb6D7c87CA04Abe0',
 	  },
 	  tokenAddresses: {
 		42161: '0xdE31e75182276738B0c025daa8F80020A4F2fbFE',
+    4: '0x82af49447d8a07e3bd95bd0d56f35241523fbab1',
     },
 	  
 	  name: 'Arbinauts',
-	  symbol: 'AMOON-HONEY SLP',
-	  tokenSymbol2: 'AMOON',
-	  tokenSymbol: 'HONEY',
+	  symbol: 'MGLD-ETH SLP',
+	  tokenSymbol2: 'MGLD',
+	  tokenSymbol: 'WETH',
 	  poolActive: true,
 	  startTime: 0,
 	  endTime: Date.UTC(2021, 9, 17, 12, 0, 0),
@@ -143,7 +146,29 @@ export const supportedPools = [
 
 	  icon: '🌕',
   },
+  // {
+  //   pid: 4,
+	// lpAddresses: {
+	// 	42161: '0x41f6c51f0Ca52279380bE89B4F7c1dF082d30FeD',
+	//   },
+	//   tokenAddresses2: {
+	// 	42161: '0x1a7BD9EDC36Fb2b3c0852bcD7438c2A957Fd7Ad5',
+	//   },
+	//   tokenAddresses: {
+	// 	42161: '0xdE31e75182276738B0c025daa8F80020A4F2fbFE',
+  //   },
+	  
+	//   name: 'Arbinauts',
+	//   symbol: 'AMOON-HONEY SLP',
+	//   tokenSymbol2: 'AMOON',
+	//   tokenSymbol: 'HONEY',
+	//   poolActive: true,
+	//   startTime: 0,
+	//   endTime: Date.UTC(2021, 9, 17, 12, 0, 0),
+	//   poolType: '1',
 
+	//   icon: '🌕',
+  // },
   {
     pid: 5,
     lpAddresses: {
