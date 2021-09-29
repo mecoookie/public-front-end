@@ -79,7 +79,7 @@
 //         <Spacer />
 //         <StyledSubtitle>Earned Honey</StyledSubtitle>
 //       </Container>
-//       <CardIcon>🍯</CardIcon>
+//       <CardIcon>🦁</CardIcon>
 //       <CardContent>
 //         <Box
 //           alignItems="center"

@@ -70,7 +70,7 @@ export const supportedPools = [
     symbol: 'HONEY-ETH SLP',
     tokenSymbol: 'HONEY',
 	tokenSymbol2: 'WETH',
-    icon: '🍯',
+    icon: '🦁',
 	poolActive: true,
 	startTime: 	0,
 	endTime: 0,
@@ -448,6 +448,6 @@ export const supportedPoolsDegen = [
 	  symbol: 'HONEY-ETH SLP',
 	  tokenSymbol: 'HONEY',
 	  tokenSymbol2: 'WETH',
-	  icon: '🍯',
+	  icon: '🦁',
 	},
 ]
