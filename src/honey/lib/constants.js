@@ -99,26 +99,26 @@ export const supportedPools = [
   {
     pid: 3,
     lpAddresses: {
-      42161: '0x3101836cD04E1981eC1225fFE39BD1206664C4bB',
+      42161: '0xdc1fe991681e34b575e72e64c1185b7c2016f172',
     },
     tokenAddresses2: {
       42161: '0xff970a61a04b1ca14834a43f5de4533ebddb5cc8',
 	  
     },
 	tokenAddresses: {
-		42161: '0xdE31e75182276738B0c025daa8F80020A4F2fbFE',
+		42161: '0x1c50751a54df214acda7bec2ef99c317898a12a2',
     },
 	
     name: 'Circle Snail',
-    symbol: 'USDC-HONEY SLP',
+    symbol: 'USDC-MARBI SLP',
     tokenSymbol2: 'USDC',
-	tokenSymbol: 'HONEY',
+	tokenSymbol: 'MARBI',
 	poolActive: true,
 	startTime: 0,
 	endTime: 0,
 	poolType: '1',
 
-    icon: '🐌',
+    icon: '🦁',
   },
   {
     pid: 4,
