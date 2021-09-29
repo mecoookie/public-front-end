@@ -7,8 +7,8 @@ export const addresses = {
 	}
 }
 
-//export const chainId = 4;
-export const chainId = 42161;
+export const chainId = 4;
+//export const chainId = 42161;
 
 export const honeyv2 = '0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a'
 export const honeyAddress = '0xdE31e75182276738B0c025daa8F80020A4F2fbFE'

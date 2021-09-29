@@ -74,9 +74,12 @@ const Providers: React.FC = ({ children }) => {
 	  <>
     <ThemeProvider theme={theme}>
       <UseWalletProvider
-        chainId={42161}
+        // chainId={42161}
+        // connectors={{
+        //   walletconnect: { rpcUrl: 'https://arbitrum-mainnet.infura.io/v3/bb290e0ac4594e74ad670ca0a23d3732' },
+        chainId={4}
         connectors={{
-          walletconnect: { rpcUrl: 'https://arbitrum-mainnet.infura.io/v3/bb290e0ac4594e74ad670ca0a23d3732' },
+          walletconnect: { rpcUrl: 'https://rinkeby.infura.io/v3/9c4152d83aba4c7db6466f8a8006ea98' },
         }}
       >
         <SushiProvider>
