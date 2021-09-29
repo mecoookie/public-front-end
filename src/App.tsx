@@ -38,7 +38,7 @@ const App: React.FC = () => {
 	  
         <TopBar onPresentMobileMenu={handlePresentMobileMenu} />
         <MobileMenu onDismiss={handleDismissMobileMenu} visible={mobileMenu} />
-		
+        <div background-color='#FFF'>
         <Switch>
 			
           <Route path="/" exact>
@@ -58,7 +58,7 @@ const App: React.FC = () => {
         </Switch>
 		
 		
-		
+        </div>
       </Router>
       <Disclaimer />
 	  
