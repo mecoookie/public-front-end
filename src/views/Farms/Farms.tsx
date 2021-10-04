@@ -37,16 +37,11 @@ const Farms: React.FC = () => {
             <Route path={`${path}/:farmId`}>
               <div
               style={{
-                alignItems: 'center',
-                display: 'flex',
-                flex: 1,
-                justifyContent: 'center',
                 backgroundColor:"black",
               }}
             >
                 <Farm />
               </div>
-
             </Route>
           </>
         ) : (
