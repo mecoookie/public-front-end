@@ -35,8 +35,8 @@ export const red = {
 }
 
 export const grey = {
-  100: '#e8e6e6', // Farm plate Backgrounds
-  200: '#f8e5b5', 
+  200: '#e8e6e6', // Farm plate Backgrounds
+  100: '#f8e5b5', 
   300: '#000000', // Buttons text
   400: '#FFFFFF', //Lettering under title
   500: '#926407', //SLP pair ltetering
