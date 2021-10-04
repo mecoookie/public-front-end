@@ -29,9 +29,9 @@ export const green = {
 }
 
 export const red = {
-  100: '#FF0000',
-  200: '#FF0000',
-  500: '#FF0000',
+  100: '#000000',
+  200: '#FFFFFF',
+  500: '#00FF00',
 }
 
 export const grey = {
