@@ -35,13 +35,13 @@ export const red = {
 }
 
 export const grey = {
-  100: '#e8e6e6',
-  200: '#f8e5b5',
-  300: '#000000',
-  400: '#FFFFFF',
-  500: '#ffcc00',
+  100: '#e8e6e6', // Farm plate Backgrounds
+  200: '#f8e5b5', 
+  300: '#000000', // Buttons text
+  400: '#FFFFFF', //Lettering under title
+  500: '#926407', //SLP pair ltetering
   600: '#c2850a',
-  800: '#00FF00',
+  800: '#00FF00', //926407
 }
 
 export const marbicolor = {
