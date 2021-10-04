@@ -35,9 +35,9 @@ export const red = {
 }
 
 export const grey = {
-  100: '#FFFFFF',
+  100: '#f8e5b5',
   200: '#e8e6e6',
-  300: '#f8e5b5',
+  300: '#FFFFFF',
   400: '#00FF00',
   500: '#0000FF',
   600: '#0000FF',
