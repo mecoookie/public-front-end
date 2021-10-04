@@ -39,9 +39,9 @@ export const grey = {
   200: '#f8e5b5',
   300: '#000000',
   400: '#FFFFFF',
-  500: '#0000FF',
-  600: '#0000FF',
-  800: '#0000FF',
+  500: '#ffcc00',
+  600: '#FF0000',
+  800: '#00FF00',
 }
 
 export const marbicolor = {
